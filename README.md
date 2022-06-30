@@ -10,7 +10,11 @@ If someone uploads a video, it cannot be taked down or deleted because the video
 So, you can upload videos, watch and share it in browser without any worry!
 
 
+## Published Site
+https://biswarupmukherjee1.github.io/Decentralized-Video-Hosting/
 
+
+## Screenshot
 ![Youtube clone Pic](https://user-images.githubusercontent.com/89087014/176617681-0ca3ad46-7a0f-4580-af07-5c49b1cfca1d.PNG)
 
 

@@ -24,7 +24,7 @@ So, you can upload videos, watch and share it in browser without any worry!
 
 
 
-## Deployment
+## Run Locally
 
 To run this project locally,
 

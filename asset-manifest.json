@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Decentralized-Video-Hosting/static/css/main.18de8aef.chunk.css",
+    "main.js": "/Decentralized-Video-Hosting/static/js/main.57277a5b.chunk.js",
+    "main.js.map": "/Decentralized-Video-Hosting/static/js/main.57277a5b.chunk.js.map",
+    "runtime-main.js": "/Decentralized-Video-Hosting/static/js/runtime-main.4ef7451f.js",
+    "runtime-main.js.map": "/Decentralized-Video-Hosting/static/js/runtime-main.4ef7451f.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/Decentralized-Video-Hosting/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.342e5e0c.chunk.js": "/Decentralized-Video-Hosting/static/js/2.342e5e0c.chunk.js",
+    "static/js/2.342e5e0c.chunk.js.map": "/Decentralized-Video-Hosting/static/js/2.342e5e0c.chunk.js.map",
+    "index.html": "/Decentralized-Video-Hosting/index.html",
+    "precache-manifest.0abc2b67d0d59bd8f1e48313b9bb2382.js": "/Decentralized-Video-Hosting/precache-manifest.0abc2b67d0d59bd8f1e48313b9bb2382.js",
+    "service-worker.js": "/Decentralized-Video-Hosting/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/Decentralized-Video-Hosting/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.18de8aef.chunk.css.map": "/Decentralized-Video-Hosting/static/css/main.18de8aef.chunk.css.map",
+    "static/js/2.342e5e0c.chunk.js.LICENSE.txt": "/Decentralized-Video-Hosting/static/js/2.342e5e0c.chunk.js.LICENSE.txt",
+    "static/media/dvideo.png": "/Decentralized-Video-Hosting/static/media/dvideo.9e02a88e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef7451f.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.342e5e0c.chunk.js",
+    "static/css/main.18de8aef.chunk.css",
+    "static/js/main.57277a5b.chunk.js"
+  ]
+}

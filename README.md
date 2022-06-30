@@ -23,7 +23,7 @@ So, you can upload videos, watch and share it in browser without any worry!
 
 ## Deployment
 
-To deploy this project,
+To run this project locally,
 
 Step 1. Clone the project
 
